@@ -12,7 +12,7 @@ Executable will be created.
 # 
 
 Command 1 :
-        ./SecBack start 
+        './SecBack start '
              Add a file to Back up Folder and secBack will create shares and will upload to local cloud stores present in the home.                                     directory.
 #
 For each File having unique Share Id.
@@ -20,6 +20,6 @@ For each File having unique Share Id.
         Configuration file contains name of the files as well as their share ids and their SHA256 Hashes.
         Configuration file also stores information regarding Directory Map.
 #
-  ./SecBack restore
+  './SecBack restore'.
         For demo you can delete files from Backup Folder and on giving restore command.
         File will be restored.
