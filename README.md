@@ -7,7 +7,9 @@ Create a Go Environment path to this Folder and go inside : /src/github/chinmay/
 <br />
 Run Go build command.
 <br />
-Executable will be created.
+Executable will be created. OR for demo executable is present.
+<br />
+Export GOPATH=$HOME/"FOLDER_NAME"
 <br />
 # Demo
 
